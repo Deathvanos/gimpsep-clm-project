@@ -1,0 +1,10 @@
+# Clion
+/.idea/
+/cmake-build-debug/
+
+# Visual Studio
+
+# Linux
+obj/main
+bin/
+
